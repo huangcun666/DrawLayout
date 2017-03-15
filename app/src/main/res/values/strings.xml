@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawLayout1</string>
+    <string name="draw_open">draw_open</string>
+    <string name="draw_close">draw_close</string>
+</resources>
